@@ -1,5 +1,3 @@
-pip
-
 Flask==2.3.3
 Flask-CORS==4.0.0
 requests==2.31.0
@@ -14,7 +12,6 @@ sentence-transformers>=2.6.0
 # Speech processing
 SpeechRecognition==3.10.0
 pyttsx3==2.90
-pyaudio==0.2.11
 
 # Document processing
 PyPDF2==3.0.1
